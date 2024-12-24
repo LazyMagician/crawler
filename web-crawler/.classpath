@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/ananthuachary/Downloads/jsoup-1.18.3.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/jboss-logging-3.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/log4j-1.2-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/log4j-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/log4j-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/logging-interceptor-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/ananthuachary/airtel/gfsMviva/jars/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
